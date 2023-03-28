@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tQpfuGF7nZiG3g8cLUgzXhEYvfAi/eEv6GW4UvjbANRtRckfTSWBoSxTAc+XNyYO3veRFB8hGk4ELy6i9/g+A==",
+  "success": true,
+  "projectFilePath": "/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/soap_client_dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/msa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
