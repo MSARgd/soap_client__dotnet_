@@ -1,0 +1,15 @@
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/bin/Debug/net6.0/soap_client_dotnet
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/bin/Debug/net6.0/soap_client_dotnet.deps.json
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/bin/Debug/net6.0/soap_client_dotnet.runtimeconfig.json
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/bin/Debug/net6.0/soap_client_dotnet.dll
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/bin/Debug/net6.0/soap_client_dotnet.pdb
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.csproj.AssemblyReference.cache
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.AssemblyInfoInputs.cache
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.AssemblyInfo.cs
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.csproj.CoreCompileInputs.cache
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.dll
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/refint/soap_client_dotnet.dll
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.pdb
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/soap_client_dotnet.genruntimeconfig.cache
+/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/obj/Debug/net6.0/ref/soap_client_dotnet.dll
