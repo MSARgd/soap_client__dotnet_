@@ -1,9 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "8tQpfuGF7nZiG3g8cLUgzXhEYvfAi/eEv6GW4UvjbANRtRckfTSWBoSxTAc+XNyYO3veRFB8hGk4ELy6i9/g+A==",
+  "dgSpecHash": "1P7/AtVe/pTw6XaDaJRIQrGbykRWuPWtT6Su4tTnSA4BHNx//kXOPSYqm0NnJiaxApnC42WZnGEVd8vYz9DY/w==",
   "success": true,
   "projectFilePath": "/home/msa/Documents/M1/S2/Programmation_distribuée_et_middlewares/midllewares/SOAP/soap_client_dotnet/soap_client_dotnet.csproj",
   "expectedPackageFiles": [
+    "/home/msa/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.private.servicemodel/4.8.1/system.private.servicemodel.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.reflection.dispatchproxy/4.7.1/system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.cryptography.cng/4.7.0/system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.cryptography.pkcs/4.7.0/system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.cryptography.xml/4.7.0/system.security.cryptography.xml.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.permissions/4.7.0/system.security.permissions.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.servicemodel.duplex/4.8.1/system.servicemodel.duplex.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.servicemodel.http/4.8.1/system.servicemodel.http.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.servicemodel.nettcp/4.8.1/system.servicemodel.nettcp.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.servicemodel.primitives/4.8.1/system.servicemodel.primitives.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.servicemodel.security/4.8.1/system.servicemodel.security.4.8.1.nupkg.sha512",
+    "/home/msa/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
     "/home/msa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
   ],
   "logs": []
