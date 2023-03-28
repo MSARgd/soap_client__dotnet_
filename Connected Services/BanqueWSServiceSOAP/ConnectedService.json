@@ -8,7 +8,7 @@
     "namespaceMappings": [
       "*, soap_client_dotnet.BanqueWSService"
     ],
-    "outputFile": "BanqueWSService.cs",
+    "outputFile": "BanqueWSServiceSOAP.cs",
     "references": [
       "System.Reflection.DispatchProxy, {System.Reflection.DispatchProxy, 4.7.1}",
       "System.Security.AccessControl, {System.Security.AccessControl, 4.7.0}",
