@@ -13,11 +13,18 @@ public class ClientBanqueSoap
             /* ==========================================  */
             compte compte = stub.getCompteAsync(1).Result.@return;
             Console.Write("Compte :  ---->");
-            Console.WriteLine("code  : "+compte.code+"solde : "+compte.solde);
-            /*========================================= */
-
-            /*================================================*/
-            Console.ReadLine();
+            Console.WriteLine("code  : "+compte.code+"  solde : "+compte.solde);
+            /*================================================== */
+            
+            stub.getAllComptesAsync().Result.@return;
+            // for (int i = 0; i < ; i++)
+            // {
+            //     Console.WriteLine();
+            // }
+            //
+            /*=========================================================*/
+            Console.ReadLine(); BanqueWSServiceSOAP.cs
+            /*=========================================================*/
         }
     }
 }
