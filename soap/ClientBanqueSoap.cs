@@ -15,15 +15,14 @@ public class ClientBanqueSoap
             Console.Write("Compte :  ---->");
             Console.WriteLine("code  : "+compte.code+"  solde : "+compte.solde);
             /*================================================== */
+            compte[] comptes = stub.getAllComptesAsync().Result.@return;
+            for (int i = 0; i <comptes.Length ; i++)
+            {
+                Console.WriteLine("code  : "+comptes[i].code+"  solde : "+comptes[i].solde);
+            }
             
-            stub.getAllComptesAsync().Result.@return;
-            // for (int i = 0; i < ; i++)
-            // {
-            //     Console.WriteLine();
-            // }
-            //
             /*=========================================================*/
-            Console.ReadLine(); BanqueWSServiceSOAP.cs
+            Console.ReadLine(); 
             /*=========================================================*/
         }
     }
